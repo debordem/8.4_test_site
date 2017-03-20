@@ -10,6 +10,8 @@ All files should go in the folder (example below)
 
 Your home page ***must*** be called **index.html**.
 
+You can clone this to a desktop too, however Admin will be needed to allow the server apps.
+
 ## Password protection
 
 This site structure is password protected, as some sites may contain images of students.
