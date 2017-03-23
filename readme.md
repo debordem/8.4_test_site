@@ -9,7 +9,7 @@ Clone this repository into your **Sites Folder** as a starting point for your pr
 #### STEP 3
 All your project files should go in the folder (example below)
 
-![Image of Structure](https://github.com/debordem/8.4_test_site/blob/master/structure.png)
+![Image of Structure](https://github.com/debordem/8.4_test_site/blob/master/structure2.png)
 
 *There are files outside this folder you should leave alone if you want password protection.*
 
