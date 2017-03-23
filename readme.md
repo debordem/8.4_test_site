@@ -6,10 +6,12 @@ You will need a **Sites** folder, in your **Home directory**. If you have not ha
 #### STEP 2
 Clone this repository into your **Sites Folder** as a starting point for your project.
 
-
-All files should go in the folder (example below)
+#### STEP 3
+All your project files should go in the folder (example below)
 
 ![Image of Structure](https://github.com/debordem/8.4_test_site/blob/master/structure.png)
+
+*There are files outside this folder you should leave alone if you want password protection.*
 
 Your home page ***must*** be called **index.html**.
 
