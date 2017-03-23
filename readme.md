@@ -27,9 +27,9 @@ If your site **does not** contain images of students, or sensitive information (
 
 ![Image of Structure Without Password](https://github.com/debordem/8.4_test_site/blob/master/structure-wo-pw.png)
 
-## Web Server Apps
+## Web Server Scripts
 
-These two little applications should be moved to your desktop
+These two little applications should be moved to your desktop to start and stop a Web Server using your **Sites Folder**
 
 ![Image of Server Apps Password](https://github.com/debordem/8.4_test_site/blob/master/server_apps.png)
 
