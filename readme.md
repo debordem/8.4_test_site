@@ -1,5 +1,8 @@
 # About this Project
 
+It is better for you to work on your laptop however you can develop your website on the desktop as well.
+As long as you update your code the project will be portable.
+
 #### STEP 1
 You will need a **Sites** folder, in your **Home directory**. If you have not have a Sites Folder, create one first.
 
@@ -15,7 +18,6 @@ All your project files should go in the folder (example below)
 
 Your home page ***must*** be called **index.html**.
 
-You can clone this to a desktop too, however Admin will be needed to allow the server apps.
 
 ## Password protection
 
