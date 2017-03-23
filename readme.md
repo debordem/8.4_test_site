@@ -1,8 +1,11 @@
 # About this Project
 
-Clone this repository as a starting point for your project.
+#### STEP 1
+You will need a **Sites** folder, in your **Home directory**. If you have not have a Sites Folder, create one first.
 
-You should save it in your **Sites** folder, in your **Home directory**. If you have not have a Sites Folder, create one first.
+#### STEP 2
+Clone this repository into your **Sites Folder** as a starting point for your project.
+
 
 All files should go in the folder (example below)
 
