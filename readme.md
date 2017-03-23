@@ -1,7 +1,7 @@
 # About this Project
 
 It is better for you to work on your laptop however you can develop your website on the desktop as well.
-As long as you update your code the project will be portable.
+**As long as you update your code** when you make changes the project will be portable.
 
 #### STEP 1
 You will need a **Sites** folder, in your **Home directory**. If you have not have a Sites Folder, create one first.
