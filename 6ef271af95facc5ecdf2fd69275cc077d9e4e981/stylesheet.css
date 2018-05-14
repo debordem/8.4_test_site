@@ -1,2 +1,15 @@
 /* css stylesheet */
-H1 { color:gainsboro;}
+H2 { color:gainsboro;}
+
+#header {
+	position:relative;
+	display:block;
+	background-color:red;
+	width:100px;
+	height:100px;	}
+
+#left_block{}
+
+#middle_block{}
+  
+#right_block{}
