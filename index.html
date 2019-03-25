@@ -1,13 +1,4 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
-<html>
-   <head>
-      <title>Mr D 's excellent website</title>
-   </head>
-   <body>
-      <H6>This is my excellent website </H6>
-   </body>
-=======
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title></title>
@@ -83,15 +74,21 @@ div.vertical {
 	<script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 
 
-	 <script type="text/javascript" src="https://cdn.rawgit.com/chrisveness/crypto/master/sha1.js"></script>
+	 <!-- <script type="text/javascript" src="https://cdn.rawgit.com/chrisveness/crypto/master/sha1.js"></script> -->
+
+	 <script src="js/sha1.js"></script>
+	 
+
 
 	<script type="text/javascript">
 	"use strict";
 	function loadPage(pwd) {
 
+		
 		var hash= pwd;
-		hash= Sha1.hash(pwd);
+		hash = CryptoJS.SHA1(pwd);
 		var url= hash + "/index.html";
+		console.log(url);
 
 		$.ajax({
 			url : url,
@@ -123,5 +120,4 @@ div.vertical {
 	</script>
 
 </body>
->>>>>>> parent of d979af5... Setting up
 </html>
