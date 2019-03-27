@@ -75,7 +75,6 @@ div.vertical {
 	<script src="js/sha1.js"></script>
 	 
 
-
 	<script type="text/javascript">
 	"use strict";
 	function loadPage(pwd) {
@@ -86,20 +85,7 @@ div.vertical {
 		var url= hash + "/index.html";
 		console.log(url);
 
-		$.ajax({
-			url : url,
-			dataType : "html",
-			success : function(data) {
-				window.location= url;
-			},
-			error : function(xhr, ajaxOptions, thrownError) {
-
-				parent.location.hash= hash;
-				//$("#wrongPassword").show();
-				$("#password").attr("placeholder","wrong password");
-				$("#password").val("");
-			}
-		});
+		window.location= url;
 	}
 
 	$("#loginbutton").on("click", function() {
