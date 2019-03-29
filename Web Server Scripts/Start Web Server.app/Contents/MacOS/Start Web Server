@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-pushd ~/Sites
-python -m SimpleHTTPServer 8080 &> /dev/null &
-osascript -e 'display notification "Serving from Sites" with title "WebServer"'
-open http://localhost:8080/

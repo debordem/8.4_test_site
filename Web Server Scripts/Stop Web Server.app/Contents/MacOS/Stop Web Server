@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-kill $(ps aux | grep 'SimpleHTTPServer' | awk '{print $2}')
